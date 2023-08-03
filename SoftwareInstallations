@@ -1,4 +1,3 @@
 cinst adobereader
 cinst googlechrome
 cinst firefox
-cinst nextiva -y --force --params "ALLUSERS=1"
